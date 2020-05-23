@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+.responsivo{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    font-size: 24px;
+    border: 1px solid black;
+    float: left;
+    margin: 1%;
+    height: 480px;
+    text-align: justify;
+}
+
+.titulo{
+    text-align: right;
+    border: 1px solid black;
+    margin-right: -1px;
+    margin-top: -1px;
+    background-color: rgb(132, 170, 240);
+}
+
+.bloco{
+    text-align: center;
+    margin: 10px;
+    background-color:rgb(132, 170, 240);
+}
+
+h2 {
+    float: right;
+    position: relative;
+    top: -20px;
+}
+.h21{
+    background-color: rgb(255, 255, 255);
+}
+.h22{
+    background-color: rgb(255, 255, 255);
+}
+.h23{
+    background-color: rgb(255, 255, 255);
+}
+.h1{
+    text-align: center;
+}
+p{
+    padding: 10px;
+}
